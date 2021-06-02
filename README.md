@@ -48,7 +48,7 @@ Q_{QUBO} = \begin{bmatrix}
 ['BINARY', 3 rows, 10 samples, 4 variables]
 ```
 #### Timings (for 10 samples)
-```json
+```javascript
 {'qpu_sampling_time': 814,
  'qpu_anneal_time_per_sample': 20,
  'qpu_readout_time_per_sample': 40,
@@ -79,7 +79,7 @@ Q_{QUBO} = \begin{bmatrix}
 ['BINARY', 3 rows, 10 samples, 4 variables]
 ```
 #### Timings (for 10 samples)
-```json
+```javascript
 {'qpu_sampling_time': 784,
 'qpu_anneal_time_per_sample': 20,
 'qpu_readout_time_per_sample': 37,
