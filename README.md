@@ -31,14 +31,14 @@ and will print obtained solutions, their energies, frequencies during sampling a
 The following results are obtained with `Advantage_system1.1`:
 
 ### Problem #1
-```math
+$$
 Q_{QUBO} = \begin{bmatrix}
 22 & -8 & 2 & 11\\
 & 0 & 11 & -3\\
 & & 22 & -8\\
 & & & 0
 \end{bmatrix}
-```
+$$
 #### Solution
 ```bash
    0  1  2  3 energy num_oc. chain_.
@@ -62,14 +62,14 @@ Q_{QUBO} = \begin{bmatrix}
 
 
 ### Problem #2
-```math
+$$
 Q_{QUBO} = \begin{bmatrix}
 27 & -8 & 2 & 11\\
 & 5 & 11 & -3\\
 & & 27 & -8\\
 & & & 5
 \end{bmatrix}
-```
+$$
 #### Solution
 ```bash
    0  1  2  3 energy num_oc. chain_.
