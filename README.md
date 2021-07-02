@@ -31,6 +31,7 @@ and will print obtained solutions, their energies, frequencies during sampling a
 The following results are obtained with `Advantage_system1.1`:
 
 ### Problem #1
+
 $$
 Q_{QUBO} = \begin{bmatrix}
 22 & -8 & 2 & 11\\
@@ -39,6 +40,7 @@ Q_{QUBO} = \begin{bmatrix}
 & & & 0
 \end{bmatrix}
 $$
+
 #### Solution
 ```bash
    0  1  2  3 energy num_oc. chain_.
@@ -62,6 +64,7 @@ $$
 
 
 ### Problem #2
+
 $$
 Q_{QUBO} = \begin{bmatrix}
 27 & -8 & 2 & 11\\
@@ -70,6 +73,7 @@ Q_{QUBO} = \begin{bmatrix}
 & & & 5
 \end{bmatrix}
 $$
+
 #### Solution
 ```bash
    0  1  2  3 energy num_oc. chain_.
